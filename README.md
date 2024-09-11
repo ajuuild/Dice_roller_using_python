@@ -1,5 +1,6 @@
 # Dice Roller Using Python
 
+
 # Dice Roller Project
 
 This project is a simple Dice Roller implemented in Python with two different approaches, each offering a unique experience in terms of running and execution. The project is perfect for those looking to understand different ways of achieving the same goal using Python.
@@ -37,5 +38,5 @@ This project is licensed under the MIT License.
 
 ## Author
 
-- M.AJAY
+M.AJAY
 
